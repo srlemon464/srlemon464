@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on Machine Learning Projects
+- 🌱 I’m currently learning AI, Machine Learning and Deep Learning
+- 📫 How to reach me: ...
+- ⚡ Fun fact: I like gundams
 <!--
 **srlemon464/srlemon464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
