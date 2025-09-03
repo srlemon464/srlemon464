@@ -1,7 +1,7 @@
-## Hi there 👋
+## Gday my fine visitor 👋
 - 🔭 I’m currently working on Machine Learning Projects
 - 🌱 I’m currently learning AI, Machine Learning and Deep Learning
-- 📫 How to reach me: ...
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/muhammad-jaddoua-0a097720a/) or m.jaddoua@gmail.com
 - ⚡ Fun fact: I like gundams
 <!--
 **srlemon464/srlemon464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
